@@ -12,7 +12,7 @@ The next page is the 'Events' one, or events.html, with the stylesheet events.cs
 Third comes in place the 'History' one, or history.html, having the stylesheet history.css, which has link images down below, with a path to each museum's site.<br><br>
 The fourth page, 'Sightseeing' - sightseeing.html, with the stylesheet sightseeing.css, providing anchor image polaroids, each polaroid leading to a documentation about the touristic attractions.<br><br>
 The 'Services' page, services.html with stylesheet services.css is a presentation of restaurants, each anchor image taking us to the menu of said restaurant.<br><br>
-Lastly, the 'Education' page, education.html with the stylesheet education.css, talks a little about the mainn universities in Romania, providing anchor image polaroids taking us to the universities' sites.<br><br><br>
+Lastly, the 'Education' page, education.html with the stylesheet education.css, talks a little about the main universities in Romania, providing anchor image polaroids taking us to the universities' sites.<br><br><br>
 
 In short:<br>
 -Main Page (Cluj-Napoca): index.html , index.js ,  index.css <br>
