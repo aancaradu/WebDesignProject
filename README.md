@@ -1,6 +1,4 @@
-# WebDesignProject
-
-# WebDesignProject
+# WebDesignProject 2024
 
 **Author:** Radu Anca-Valentina
 **Subject:** Web Design
@@ -61,3 +59,6 @@ An overview of Romania's main universities, each anchor image polaroid linking t
 | Sightseeing | `sightseeing.html`, `sightseeing.css` |
 | Services | `services.html`, `services.css` |
 | Education | `education.html`, `education.css` |
+
+## Live Demo
+https://aancaradu.github.io/WebDesignProject/
