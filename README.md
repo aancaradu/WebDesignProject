@@ -1,24 +1,63 @@
 # WebDesignProject
 
-Cluj-Napoca
+# WebDesignProject
 
-Project Author: Radu Anca-Valentina <br>
-Subject: Web Design <br>
-University: Brno University of Technology<br><br><br>
+**Author:** Radu Anca-Valentina
+**Subject:** Web Design
+**University:** Brno University of Technology
+**Topic:** Cluj-Napoca Website
 
+## Overview
 
-The first webpage, which is the main page, consists of index.html, index-style.css and index.js. Here we have a carousel of photos of Cluj-Napoca, a 'Learn More' button taking us to the city's Wikipedia page and a 'Contact' button, that takes us to the contact.html or 'Contact' webpage I created, having the stylesheet contact.css . <br>Below, we can go to ClujBike's site using the 'REGISTER AND RENT' button and under that, a gallery of my personal photos of the city. To visualize the pictures, they must be clicked. <br><br>
-The next page is the 'Events' one, or events.html, with the stylesheet events.css, providing buttons to each event's site. <br><br>
-Third comes in place the 'History' one, or history.html, having the stylesheet history.css, which has link images down below, with a path to each museum's site.<br><br>
-The fourth page, 'Sightseeing' - sightseeing.html, with the stylesheet sightseeing.css, providing anchor image polaroids, each polaroid leading to a documentation about the touristic attractions.<br><br>
-The 'Services' page, services.html with stylesheet services.css is a presentation of restaurants, each anchor image taking us to the menu of said restaurant.<br><br>
-Lastly, the 'Education' page, education.html with the stylesheet education.css, talks a little about the main universities in Romania, providing anchor image polaroids taking us to the universities' sites.<br><br><br>
+A multi-page website showcasing Cluj-Napoca, covering the city's main attractions, history, events, sightseeing, services, and education. Each page has its own HTML and CSS, with JS where needed.
 
-In short:<br>
--Main Page (Cluj-Napoca): index.html , index.js ,  index.css <br>
--Contact: contact.html , contact.css<br>
--Events: events.html , events.css<br>
--City History: history.html , history.css<br>
--Sightseeing: sightseeing.html , sightseeing.css<br>
--Services: services.html , services.css<br>
--Education: education.html , education.css<br>
+## Pages
+
+### Main Page
+`index.html`, `index-style.css`, `index.js`
+
+- Photo carousel of Cluj-Napoca
+- "Learn More" button linking to the city's Wikipedia page
+- "Contact" button linking to the Contact page
+- "REGISTER AND RENT" button linking to ClujBike's site
+- Personal photo gallery of the city (click each photo to view)
+
+### Contact
+`contact.html`, `contact.css`
+
+### Events
+`events.html`, `events.css`
+
+Buttons linking to each event's official site.
+
+### City History
+`history.html`, `history.css`
+
+Linked images leading to each museum's site.
+
+### Sightseeing
+`sightseeing.html`, `sightseeing.css`
+
+Anchor image polaroids, each linking to documentation on the touristic attraction.
+
+### Services
+`services.html`, `services.css`
+
+Restaurant presentations, each anchor image linking to that restaurant's menu.
+
+### Education
+`education.html`, `education.css`
+
+An overview of Romania's main universities, each anchor image polaroid linking to the university's site.
+
+## File Structure Summary
+
+| Page | Files |
+|---|---|
+| Main Page | `index.html`, `index.js`, `index-style.css` |
+| Contact | `contact.html`, `contact.css` |
+| Events | `events.html`, `events.css` |
+| City History | `history.html`, `history.css` |
+| Sightseeing | `sightseeing.html`, `sightseeing.css` |
+| Services | `services.html`, `services.css` |
+| Education | `education.html`, `education.css` |
