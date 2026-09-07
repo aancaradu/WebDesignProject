@@ -1,8 +1,11 @@
 # WebDesignProject 2024
 
 **Author:** Radu Anca-Valentina
+
 **Subject:** Web Design
+
 **University:** Brno University of Technology
+
 **Topic:** Cluj-Napoca Website
 
 ## Overview
